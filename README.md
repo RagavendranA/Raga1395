@@ -1,2 +1,2 @@
 # Raga1395
-Training purpose
+This is Git training purpoe
